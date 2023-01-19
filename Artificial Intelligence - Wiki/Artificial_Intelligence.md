@@ -31,7 +31,7 @@ General AI would be artificial beings, conscious of themselves and able to under
 
 The more I read about it, the more it becomes apparent: when someone comes up with a definition of intelligence, it'll be much easier to say what artificial intelligence actually is. It seems rather subjective what makes AI actual intelligence. What we can be sure of, however, is the future looks rather exciting. Whether that's for good or for worse, we're yet to find out.
 
-By Andy Davila.
 
 [^1]: https://www.bbc.com/news/technology-30290540
 [^2]: https://www.reddit.com/r/explainlikeimfive/comments/5yue8h/eli5_what_is_ai_or_artificial_intelligence/
+By Andy Davila.
