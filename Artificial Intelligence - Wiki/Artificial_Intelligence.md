@@ -34,4 +34,5 @@ The more I read about it, the more it becomes apparent: when someone comes up wi
 
 [^1]: https://www.bbc.com/news/technology-30290540
 [^2]: https://www.reddit.com/r/explainlikeimfive/comments/5yue8h/eli5_what_is_ai_or_artificial_intelligence/
+
 By Andy Davila.
