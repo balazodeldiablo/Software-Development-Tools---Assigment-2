@@ -21,7 +21,8 @@ Critical roles for AI is to develop synergy with humans so they could work toget
 [^1]: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ai/ 
 
 
-
+|Table of Contents|
+|:------|
 | 1. [What is Artificial Intelligence?](https://github.com/balazodeldiablo/IT115/blob/main/Artificial%20Intelligence%20-%20Wiki/Artificial_Intelligence.md) |
 | 2. [Goals](https://github.com/balazodeldiablo/IT115/blob/main/Artificial%20Intelligence%20-%20Wiki/Goals.md) |
 | 3. [Tools](https://github.com/balazodeldiablo/IT115/blob/main/Artificial%20Intelligence%20-%20Wiki/Tools.md) |
