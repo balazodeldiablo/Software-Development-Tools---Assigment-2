@@ -18,6 +18,7 @@ AI promotes creativity and artificial thinking that helps humans complete tasks 
 AI researchers want to develop machines with general AI capabilities that uses both cognitive skill and do tasks with better proficiency than humans.
 ## 8. Promote Synergy Between Humans and AI
 Critical roles for AI is to develop synergy with humans so they could work together and enhance each other capabilites instead of just relying on one.
+-Renan Sonza
 [^1]: https://www.spiceworks.com/tech/artificial-intelligence/articles/what-is-ai/ 
 
 
